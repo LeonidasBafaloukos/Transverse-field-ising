@@ -38,13 +38,12 @@ $$
 The analytical eigenvalues are
 
 $$
-E =
-\left\{
--\sqrt{J^2+4h^2},
--J,
-J,
-\sqrt{J^2+4h^2}
-\right\}.
+\begin{aligned}
+E_0 &= -\sqrt{J^2+4h^2}, \\
+E_1 &= -J, \\
+E_2 &= J, \\
+E_3 &= \sqrt{J^2+4h^2}.
+\end{aligned}
 $$
 
 ## Current implementation
